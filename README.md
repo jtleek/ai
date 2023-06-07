@@ -1,6 +1,8 @@
 ﻿## A few AI resources
  
- The AI landscape is evolving rapidly! I'm creating here a small curated set of resources that I've been reading as well as a few things we are creating at the [Fred Hutch Data Science Lab](https://hutchdatascience.org/). This will likely get updated periodically. 
+ The AI landscape is evolving rapidly! I'm creating here a small curated set of resources that I've been reading as well as a few things we are creating at the [Fred Hutch Data Science Lab](https://hutchdatascience.org/). This will likely get updated periodically. A key insight that helped me understand what is happening with AI is:
+
+> It is a better computer, not a robot. 
  
  
  ### General AI Resources
