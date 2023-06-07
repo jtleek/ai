@@ -7,11 +7,12 @@
  
  * [AI Cannon](https://a16z.com/2023/05/25/ai-canon/) - a collection of AI resources put together by a well-known venture capitol group.
  * [Attention is all you need](https://arxiv.org/abs/1706.03762) - describes "transformer models" which is one of the key innovations that enabled generative models - pretty technical but wildly important. 
+ * [Production AI systems are really hard](https://methexis.substack.com/p/production-ai-systems-are-really) - a great short read on why doing AI in real applications is hard with a focus on biomedicine.
+ * [Andrej Karpathy - AI for Full-Self Driving at Tesla](https://www.youtube.com/watch?v=hx7BXih7zx8) - a great example of this in a real case of Tesla's attempt at full self driving. Who knew detecting stopsigns would be so hard! 
  
  
  ### AI in Medicine
  
- * [Production AI systems are really hard](https://methexis.substack.com/p/production-ai-systems-are-really) - a great short read on why doing AI in real applications is hard
  * [Benefits, Limits, and Risks of GPT-4 as an AI Chatbot for Medicine](https://www.nejm.org/doi/full/10.1056/NEJMsr2214184) - A paper where they use a few simulated examples and look at how well GPT4 can take passive recordings and turn it into physician notes from Nuance Dax- it works pretty well, but this skips the ethical, legal, edge case and infrastructure issues - post previous bullet. 
  * [Comparing Physician and Artificial Intelligence Chatbot Responses to Patient Questions Posted to a Public Social Media Forum](https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/2804309) - A paper that compares verified physician responses to queries on reddit to GPT3.5 responses and finds the GPT3.5 responses are reasonably good. 
  * [he utility of ChatGPT for cancer treatment information](https://www.medrxiv.org/content/10.1101/2023.03.16.23287316v1) - This study evaluated the performance and robustness of ChatGPT in providing breast, prostate, and lung cancer treatment recommendations that align with National Comprehensive Cancer Network (NCCN) guidelines. They showed that chatGPT made a NCCN aligned recommendation in 98% of cases, but also provided a non-aligned recommendation in at least 34% of cases - the overall summary was that chatGPT did not perform well in robustly providing recommendations. 
